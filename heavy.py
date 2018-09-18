@@ -52,5 +52,5 @@ def love_commit(start_date, path, etc_path):
 
 
 if __name__ == '__main__':
-    love_commit(datetime.date(2018, 4, 18), '/liuwei/zero.md', 'etc/love')
+    love_commit(datetime.date(2018, 4, 18), '/game/zero.md', 'etc/love')
 
